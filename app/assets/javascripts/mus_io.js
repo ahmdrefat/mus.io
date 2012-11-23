@@ -9,5 +9,5 @@ window.MusIo = {
 };
 
 $(document).ready(function(){
-  MusIo.initialize();
+  // MusIo.initialize();
 });
