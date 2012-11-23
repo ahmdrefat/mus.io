@@ -1,7 +1,7 @@
 body {
 	font: 14px 'Helvetica Neue', Helvetica, helvetica, sans-serif;
 	line-height: 1.4em;
-	background: #eaeaea url('bg1.png');
+	background: #eaeaea url('../images/bg1.png');
 	color: #4d4d4d;
 	width: 550px;
 	margin: 0 auto;
@@ -113,7 +113,7 @@ body {
 }
 
 #image {
-  background: #eaeaea url('image.png');
+  background: #eaeaea url('../images/image.png');
   position: relative;
   z-index:3;
   width: 120px;
@@ -121,7 +121,7 @@ body {
 }
 
 .sound-button {
-  background: url('sound.png');
+  background: url('../images/sound.png');
   position: absolute;
   z-index:3;
   width: 42px;
@@ -131,7 +131,7 @@ body {
 }
 
 .sound-level {
-  background: url('sound-level.png');
+  background: url('../images/sound-level.png');
   position: absolute;
   z-index:3;
   width: 138px;
@@ -335,7 +335,7 @@ body {
  }
 
 .app-rect {
-  background: #eaeaea url('bg.png');
+  background: #eaeaea url('../images/bg.png');
   margin: 0px;
   border: none;
   width: 566px;
@@ -346,7 +346,7 @@ body {
 }
 
  .music-rect {
-  background: #eaeaea url('header-bg.png');
+  background: #eaeaea url('../images/header-bg.png');
   margin: 0px;
   border: none;
   width: 564px;
@@ -369,7 +369,7 @@ body {
 }
 
 .timeline-rect {
-  background: #eaeaea url('timeline-bg.png');
+  background: #eaeaea url('../images/timeline-bg.png');
   margin: 0px;
   border: none;
   width: 564px;
@@ -380,7 +380,7 @@ body {
 }
 
 .line {
-  background: #eaeaea url('line-bg.png');
+  background: #eaeaea url('../images/line-bg.png');
   margin: 30px 0px 0px 15px;
   border: none;
   width: 534px;
@@ -390,7 +390,7 @@ body {
 }
 
  .title-rect {
-  background: #eaeaea url('title-bg.png');
+  background: #eaeaea url('../images/title-bg.png');
   margin: 0px;
   border: none;
   width: 564px;
@@ -416,7 +416,7 @@ body {
   margin: 15px 0px 0px 55px;
 }
 #title-number {
-  background: url('title-number.png');
+  background: url('../images/title-number.png');
   margin: 0px;
   border: none;
   width: 41px;
@@ -426,7 +426,7 @@ body {
 }
 
 #sound-button {
-  background: url('sound-button.png');
+  background: url('../images/sound-button.png');
   margin: 0px;
   border: none;
   width: 48px;
@@ -436,7 +436,7 @@ body {
 }
 
  .title-rect2 {
-  background: #eaeaea url('title-bg.png');
+  background: #eaeaea url('../images/title-bg.png');
   margin: 0px;
   border: none;
   width: 564px;
@@ -446,7 +446,7 @@ body {
   left: 408px;
 }
  .title-rect3 {
-  background: #eaeaea url('title-bg.png');
+  background: #eaeaea url('../images/title-bg.png');
   margin: 0px;
   border: none;
   width: 564px;
