@@ -80,6 +80,12 @@ body {
   height: 23px;
   position: relative;
 }
+.repeat-button:hover {
+  background-image: -moz-linear-gradient(270deg, #302c2d 0%, #1e1e1e 50%);
+  background-image: -webkit-linear-gradient(270deg, #302c2d 0%, #1e1e1e 50%);
+  background-image: -o-linear-gradient(270deg, #302c2d 0%, #1e1e1e 50%);
+  background-image: linear-gradient(180deg, #302c2d 0%, #1e1e1e 50%);
+}
 #repeat-text {
   text-align: center;
   color: #48aa93;
@@ -209,6 +215,12 @@ body {
    margin: -1.05 0 0 -0.11;
    position: relative;
    border-radius: 23px / 23px;
+ }
+  .oval-2:hover {
+   background-image: -moz-linear-gradient(270deg, #a8a8a8 0%, #1b1b1b 50%);
+   background-image: -webkit-linear-gradient(270deg, #a8a8a8 0%, #1b1b1b 50%);
+   background-image: -o-linear-gradient(270deg, #a8a8a8 0%, #1b1b1b 50%);
+   background-image: linear-gradient(180deg, #a8a8a8 0%, #1b1b1b 50%);
  }
  .oval-3 {
    background: #2e2e2e;
